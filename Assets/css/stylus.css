@@ -14,7 +14,7 @@ body{
     color: #02C9FF!important;
 }
 .fondoDatos{
-    background-image: url("/Assets/img/fondoDatos.jpg");
+    background-image: url("../img/fondoDatos.jpg");
     background-repeat: no-repeat;
 }
 
