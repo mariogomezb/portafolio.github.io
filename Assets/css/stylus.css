@@ -1,6 +1,7 @@
 body{
-  background-color: rgb(222, 238, 238)!important;
+    background-color: aliceblue !important;
 }
+
 
 .navbar-toggler-icon{
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30' %3e%3cpath stroke='rgb%289, 150,180, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
@@ -14,8 +15,9 @@ body{
     color: #02C9FF!important;
 }
 .fondoDatos{
-    background-image: url("../img/fondoDatos.jpg");
+    background-image: url("../img/fondoDatos.jpg") !important;
     background-repeat: no-repeat;
+    border-radius: 15px;
 }
 
 .descripcion{
@@ -24,6 +26,7 @@ body{
 
 .nombre{
     font-family: 'Balsamiq Sans', cursive;
+    font-size: 50px;
 }
 
 .diseñador{
@@ -54,10 +57,11 @@ body{
 }
 footer{
     font-family: 'Balsamiq Sans', cursive;
-  }
+    
+}
 
 .botones{
-    background-color: #24242C !important;
+    background-color: white !important;
     color: #1B769C !important;
 }
 
