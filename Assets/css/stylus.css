@@ -14,12 +14,24 @@ body{
 .textoMenu{
     color: #02C9FF!important;
 }
-.fondoDatos{
-    background-image: url("../img/fondoDatos.jpg") !important;
+
+.fondoIndex{
+    background-image: url("../img/fondoIndex.jpg") !important;
     background-repeat: no-repeat;
     border-radius: 15px;
 }
 
+.fondoDatos{
+    background-image: url("../img/fondo.jpg") !important;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+}
+
+.fondoCeleste{
+    background-image: url("../img/fondoCeleste.jpg");
+    background-repeat: no-repeat;
+    border-radius: 15px;
+}
 .descripcion{
     color: #02C9FF;
 }
@@ -61,7 +73,7 @@ footer{
 }
 
 .botones{
-    background-color: white !important;
+    background-color: #24242B !important;
     color: #1B769C !important;
 }
 
